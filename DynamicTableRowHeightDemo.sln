@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicTableRowHeightDemo", "DynamicTableRowHeightDemo\DynamicTableRowHeightDemo.csproj", "{05714C99-6BD3-41B4-8AC5-98BA04624FAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05714C99-6BD3-41B4-8AC5-98BA04624FAF}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{05714C99-6BD3-41B4-8AC5-98BA04624FAF}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{05714C99-6BD3-41B4-8AC5-98BA04624FAF}.Release|iPhone.ActiveCfg = Release|iPhone
+		{05714C99-6BD3-41B4-8AC5-98BA04624FAF}.Release|iPhone.Build.0 = Release|iPhone
+		{05714C99-6BD3-41B4-8AC5-98BA04624FAF}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{05714C99-6BD3-41B4-8AC5-98BA04624FAF}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{05714C99-6BD3-41B4-8AC5-98BA04624FAF}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{05714C99-6BD3-41B4-8AC5-98BA04624FAF}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
